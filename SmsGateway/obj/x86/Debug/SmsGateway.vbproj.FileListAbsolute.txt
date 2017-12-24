@@ -1,0 +1,9 @@
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\SmsGateway\SmsGateway\bin\Debug\SmsGateway.exe
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\SmsGateway\SmsGateway\bin\Debug\SmsGateway.pdb
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\SmsGateway\SmsGateway\bin\Debug\SmsGateway.xml
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\SmsGateway\SmsGateway\obj\x86\Debug\SmsGateway.Form1.resources
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\SmsGateway\SmsGateway\obj\x86\Debug\SmsGateway.Resources.resources
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\SmsGateway\SmsGateway\obj\x86\Debug\SmsGateway.vbproj.GenerateResource.Cache
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\SmsGateway\SmsGateway\obj\x86\Debug\SmsGateway.exe
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\SmsGateway\SmsGateway\obj\x86\Debug\SmsGateway.xml
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\SmsGateway\SmsGateway\obj\x86\Debug\SmsGateway.pdb
